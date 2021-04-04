@@ -11,6 +11,6 @@ My interests and expertises expand from graphics- , motion- and sound-design up 
 - ⚡ Fun fact: I also play drums and guitar
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=osumatrix" alt="oSumAtrIX's GitHub stats" width="60%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="37%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oSumAtrIX&layout=compact" width="37%" alt="Top Languages">
 
 

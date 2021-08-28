@@ -59,7 +59,6 @@ jobs:
           plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_reactions_limit: 200
           plugin_reactions_limit_issues: 100
-          plugin_repositories: 100
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100

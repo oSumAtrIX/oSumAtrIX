@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 16 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -18,6 +18,7 @@ jobs:
           user: oSumAtrIX
           template: classic
           base: header, activity, community, repositories
+          commits_authoring: oSumAtrIX
           config_timezone: Europe/Germany
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -49,6 +50,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://osumatrix.me
           plugin_people: yes
           plugin_people_limit: 24
@@ -60,6 +62,10 @@ jobs:
           plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_reactions_limit: 200
           plugin_reactions_limit_issues: 100
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+          plugin_skyline_year: current-year
           plugin_stargazers: yes
           plugin_stars: yes
           plugin_stars_limit: 4

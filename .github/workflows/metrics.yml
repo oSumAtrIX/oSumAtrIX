@@ -13,10 +13,10 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
           # Options
           user: oSumAtrIX
           template: classic
+          config_display: columns
           base: header, activity, community, repositories
           commits_authoring: oSumAtrIX
           config_timezone: Europe/Germany

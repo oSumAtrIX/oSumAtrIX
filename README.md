@@ -7,4 +7,4 @@ My interests and expertises expand from graphics- , motion- and sound-design up 
 - 📫 Reach me under https://osumatrix.me
 - ⚡ Fun fact: I also play drums and guitar
 
-![Metrics](https://github.com/oSumAtrIX/oSumAtrIX/blob/main/github-metrics.svg)
+<img src="https://github.com/oSumAtrIX/oSumAtrIX/blob/main/github-metrics.svg" alt="Metrics" width="100%">

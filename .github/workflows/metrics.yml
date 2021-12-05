@@ -53,7 +53,7 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://osumatrix.me
           plugin_people: yes
-          plugin_people_limit: 24
+          plugin_people_limit: 64
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following

@@ -21,7 +21,7 @@
   <td>🔭 I am currently working on my skills with front- & backend and on <a href=https://github.com/revanced>ReVanced</a></td>
 </tr>
 <tr>
-  <td>🌱 My current objective is studying computer science classes at the <a href=https://www.uni-augsburg.de>University of Augsburg</a></td>
+  <td>🌱 My current objective is studying computer science classes at <a href=https://www.uni-augsburg.de>University of Augsburg</a></td>
 </tr>
 <tr>
   <td>✉️ Find more about me on <a href=https://osumatrix.me>osumatrix.me</a></td>

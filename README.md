@@ -27,7 +27,7 @@
   <td>✉️ Find more about me on <a href=https://osumatrix.me>osumatrix.me</a></td>
 </tr>
 <tr>
-  <td>⚡ Fun fact: I also play drums and guitar</td>
+  <td>⚡ PS: I also play drums and guitar</td>
 </tr>
 <tr>
   <td>

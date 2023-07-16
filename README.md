@@ -1,4 +1,5 @@
-<img src="https://github.com/oSumAtrIX/oSumAtrIX/assets/13122796/5866f775-2b43-4cb2-98e1-7dd61199692a">
+
+<img src="https://github.com/oSumAtrIX/oSumAtrIX/assets/13122796/2a83da91-9182-47bf-a5ef-68575cdf4ee3">
 <table>
   <tr>
     <td align=center>

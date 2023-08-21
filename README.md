@@ -22,13 +22,13 @@
   <td>🔭 I am currently working on my skills with front- & backend and on <a href=https://github.com/revanced>ReVanced</a></td>
 </tr>
 <tr>
-  <td>🌱 My current objective is studying computer science classes at <a href=https://www.uni-augsburg.de>University of Augsburg</a></td>
+  <td>🥇 My current objective is to study computer science at <a href=https://www.uni-augsburg.de>University of Augsburg</a></td>
 </tr>
 <tr>
-  <td>✉️ Find more about me on <a href=https://osumatrix.me>osumatrix.me</a></td>
+  <td>👤 Visit me at <a href=https://osumatrix.me>osumatrix.me</a></td>
 </tr>
 <tr>
-  <td>⚡ PS: I also play drums and guitar</td>
+  <td>⚡ I also play drums and guitar</td>
 </tr>
 <tr>
   <td>

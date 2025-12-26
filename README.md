@@ -2,29 +2,26 @@
 <table>
   <tr>
     <td align=center>
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FoSumAtrIX&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
-      <img src="https://img.shields.io/github/followers/oSumAtrIX">
-      <img src="https://img.shields.io/github/stars/oSumAtrIX?style=social">
-      <img src="https://img.shields.io/reddit/user-karma/combined/oSumAtrIX?style=social">
-      <img src="https://img.shields.io/twitter/follow/oSumAtrIX?style=social">
-      <img src="https://img.shields.io/youtube/channel/views/UCk9pnU2BGmIafksQPvTJfuA?style=social">
+      <a href="https://osumatrix.me"><img src="https://img.shields.io/website?url=https%3A%2F%2Fosumatrix.me&label=osumatrix.me"></a>
+      <a href="https://github.com/oSumAtrIX.gpg"><img src="https://img.shields.io/badge/CDB604B4-GPG-blue"></a>
+      <a href="https://github.com/osumatrix"><img src="https://komarev.com/ghpvc/?username=osumatrix"></a>
+      <a href="https://github.com/osumatrix"><img src="https://img.shields.io/github/followers/oSumAtrIX"></a>
+      <a href="https://github.com/osumatrix"><img src="https://img.shields.io/github/stars/oSumAtrIX?style=social"></a>
+      <a href="https://reddit.com/u/osumatrix"><img src="https://img.shields.io/reddit/user-karma/combined/oSumAtrIX?style=social"></a>
+      <a href="https://x.com/osumatrix"><img src="https://img.shields.io/twitter/follow/oSumAtrIX?style=social"></a>
+      <a href="https://www.youtube.com/@osumatrix."><img src="https://img.shields.io/youtube/channel/views/UCk9pnU2BGmIafksQPvTJfuA?style=social"></a>
     </td>
   </tr>
   <tr>
     <td>
-      My interests and expertise expand from graphics-, motion- and sound design in dedicated software like Adobe Suite and Image-Line FL Studio up to programming in lots of different languages like <b>Kotlin</b>, <b>Rust</b>, <b>C#</b>, <b>Java</b>, <b>PHP</b>, <b>HTML</b>, <b>JavaScript</b>, <b>CSS</b>, <b>MySQL</b>, <b>Objective-C</b>, <b>C</b>, <b>Python</b> and <b>Visual Basic</b>, with the first
-      being my most and last being my least used languages. I mostly use my brief time productively, but I usually play chess, osu!, or Krunker if I don't.
-      Because of peer pressure, I generally hang around on Discord but maintain daily activity on my email inbox and a couple of other forums.
+      Photo, video, music, CI/CD, Git & GitHub, CloudFlare, Serverless, Docker, Linux, ML, Oracle Cloud, Cryptography, Kotlin, Rust, C#, Java, PHP, HTML, JavaScript, CSS, SvelteKit, npm/pnpm, SQL, C/C++, Drivers, Python, Visual Basic, chess, osu!, Krunker, Discord, email, and various forums.
   </td>
 </tr>
 <tr>
-  <td>🔭 Currently working on <a href=https://github.com/revanced>ReVanced</a></td>
+  <td>🥇 Studying CS at <a href=https://www.uni-augsburg.de>University of Augsburg</a></td>
 </tr>
 <tr>
-  <td>🥇 Studying computer science at <a href=https://www.uni-augsburg.de>University of Augsburg</a></td>
-</tr>
-<tr>
-  <td>🏠 Home at <a href=https://osumatrix.me>osumatrix.me</a></td>
+  <td>🏠 ~ at <a href=https://osumatrix.me>osumatrix.me</a></td>
 </tr>
 <tr>
   <td>🎼 I play 🥁 and 🎸</td>
